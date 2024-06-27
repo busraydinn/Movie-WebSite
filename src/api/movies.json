@@ -1,0 +1,188 @@
+{
+    "movies":[
+        {
+             "id":1,
+             "Title":"Spiderman",
+             "Year":"2002",
+             "imdbRated":"7.4/10",
+             "Poster":"https://tr.web.img2.acsta.net/pictures/bzp/01/29007.jpg",
+             "Director":"Sam Raimi",
+             "Actors":"Tobey Maguire, Kirsten Dunst, Willem Dafoe",
+             "Genre":"Bilim Kurgu, Fantastik",
+             "Description":"Genetiği değiştirilmiş bir örümcek tarafından ısırılan utangaç bir genç, maskeli bir süper kahraman olarak adaletsizlikle mücadele etmek ve intikamcı bir düşmanla yüzleşmek için örümceğe benzer yetenekler kazanır."
+         },
+         {
+             "id":2,
+             "Title":"Senden Önce Ben",
+             "Year":"2016",
+             "imdbRated":"7.4/10",
+             "Poster":"https://tr.web.img4.acsta.net/pictures/16/06/07/16/38/013892.jpg",
+             "Director":"Thea Sharrock",
+             "Actors":"Emilia Clarke,Sam Claflin, Janet Mc Teer",
+             "Genre":"Dram, Romantik",
+             "Description":"Senden Önce Ben, 2016 Amerikan-İngiliz yapımı romantik komedi-drama filmidir. Yönetmen Thea Sharrock'tur. Jojo Moyes'un 2012 yılında yayınladığı romandan uyarlanmıştır. Filmin başrollerini Emilia Clarke, Sam Claflin, Jenna Coleman, Charles Dance, Matthew Lewis, Ben Lloyd-Hughes ve Janet McTeer paylaşmaktadır."
+         },
+         {
+             "id":3,
+             "Title":"Kung Fu Panda 4",
+             "Year":"2024",
+             "imdbRated":"7.4/10",
+             "Poster":"https://www.dreamworks.com/storage/cms-uploads/kung-fu-panda-4-he-poster.jpg",
+             "Director":"Mike MitchellStephanie Stine",
+             "Actors":"Jack BlackAwkwafinaViola Davis",
+             "Genre":"Animasyon, Aksiyon, Macera",
+             "Description":"Jack Black, kahramanların en beklenmedik yerlerde bulunabileceğini ona hatırlatan, kötü niyetli, büyü kullanan bir düşmanla mücadele etmek için alışılmadık bir kung fu ustası Po olarak geri dönüyor."
+         },
+         {
+             "id":4,
+             "Title":"Kara Şovalye",
+             "Year":"2008",
+             "imdbRated":"9.0/10",
+             "Poster":"https://upload.wikimedia.org/wikipedia/tr/4/4d/Kara_%C5%9E%C3%B6valye_TR_film_afi%C5%9Fi.jpg",
+             "Director":"Christopher Nolan",
+             "Actors":"Christian Bale,Heath LedgerAaron Eckhart",
+             "Genre":"Aksiyon,Suç, Dram"
+         },
+         {
+             "id":5,
+             "Title":"Yıldız Savaşları: İmparator",
+             "Year":"1980",
+             "imdbRated":"8.7/10",
+             "Poster":"https://upload.wikimedia.org/wikipedia/tr/a/ac/386px-Empire20strikes20back_old.jpg",
+             "Director":"Irvin Kershner",
+             "Actors":"Mark Hamill,Harrison Ford,Carrie Fisher",
+             "Genre":"Aksiyon, Macera,Fantastik"
+         },
+         {
+             "id":6,
+             "Title":"Yıldızlar Arası",
+             "Year":"2014",
+             "imdbRated":"8.7/10",
+             "Poster":"https://tr.web.img2.acsta.net/pictures/14/10/09/15/52/150664.jpg",
+             "Director":"Christopher Nolan",
+             "Actors":"Matthew McConaughey, Anne Hathaway, Jessica Chastain",
+             "Genre":"Macera,Dram, Sci-Fi",
+             "Description":"Gelecekte Dünya yaşanmaz hale geldiğinde, çiftçi ve eski NASA pilotu Joseph Cooper, insanlar için yeni bir gezegen bulmak amacıyla bir araştırmacı ekibiyle birlikte bir uzay aracına pilotluk yapmakla görevlendirilir."
+         },
+         {
+             "id":7,
+             "Title":"Dune Çöl Gezegeni 2",
+             "Year":"2024",
+             "imdbRated":"8.6/10",
+             "Poster":"https://tr.web.img4.acsta.net/pictures/24/01/29/13/35/0180463.jpg",
+             "Director":"Denis Villeneuve",
+             "Actors":"Timothée Chalamet, Zendaya, Rebecca Ferguson",
+             "Genre":"Aksiyon,Macera, Dram"
+         },
+         {
+             "id":8,
+             "Title":"Prestij",
+             "Year":"2006",
+             "imdbRated":"8.5/10",
+             "Poster":"https://tr.web.img3.acsta.net/pictures/bzp/01/108998.jpg",
+             "Director":"Christopher Nolan",
+             "Actors":"Christian BaleHugh JackmanScarlett Johansson",
+             "Genre":"Dram, Gizem, Sci-Fi"
+         },
+         {
+             "id":9,
+             "Title":"Oyuncak Hikayesi",
+             "Year":"1995",
+             "imdbRated":"8.3/10",
+             "Poster":"https://upload.wikimedia.org/wikipedia/tr/thumb/d/d4/Oyuncak_hikaesi_film_afi%C5%9Fi.jpg/220px-Oyuncak_hikaesi_film_afi%C5%9Fi.jpg",
+             "Director":"John Lasseter",
+             "Actors":"Tom Hanks, Tim Allen, Don Rickles",
+             "Genre":"Animasyon, Macera, Komedi"
+         }  ,
+         {
+            "id":1,
+            "Title":"Spiderman",
+            "Year":"2002",
+            "imdbRated":"7.4/10",
+            "Poster":"https://tr.web.img2.acsta.net/pictures/bzp/01/29007.jpg",
+            "Director":"Sam Raimi",
+            "Actors":"Tobey Maguire, Kirsten Dunst, Willem Dafoe",
+            "Genre":"Bilim Kurgu, Fantastik"
+        },
+        {
+            "id":2,
+            "Title":"Senden Önce Ben",
+            "Year":"2016",
+            "imdbRated":"7.4/10",
+            "Poster":"https://tr.web.img4.acsta.net/pictures/16/06/07/16/38/013892.jpg",
+            "Director":"Thea Sharrock",
+            "Actors":"Emilia Clarke,Sam Claflin, Janet Mc Teer",
+            "Genre":"Dram, Romantik"
+        },
+        {
+            "id":3,
+            "Title":"Kung Fu Panda 4",
+            "Year":"2024",
+            "imdbRated":"7.4/10",
+            "Poster":"https://www.dreamworks.com/storage/cms-uploads/kung-fu-panda-4-he-poster.jpg",
+            "Director":"Mike MitchellStephanie Stine",
+            "Actors":"Jack BlackAwkwafinaViola Davis",
+            "Genre":"Animasyon, Aksiyon, Macera"
+        },
+        {
+            "id":4,
+            "Title":"Kara Şovalye",
+            "Year":"2016",
+            "imdbRated":"9.0/10",
+            "Poster":"https://upload.wikimedia.org/wikipedia/tr/4/4d/Kara_%C5%9E%C3%B6valye_TR_film_afi%C5%9Fi.jpg",
+            "Director":"Christopher Nolan",
+            "Actors":"Christian Bale,Heath LedgerAaron Eckhart",
+            "Genre":"Aksiyon,Suç, Dram"
+        },
+        {
+            "id":5,
+            "Title":"Yıldız Savaşları: İmparator",
+            "Year":"1980",
+            "imdbRated":"8.7/10",
+            "Poster":"https://upload.wikimedia.org/wikipedia/tr/a/ac/386px-Empire20strikes20back_old.jpg",
+            "Director":"Irvin Kershner",
+            "Actors":"Mark Hamill,Harrison Ford,Carrie Fisher",
+            "Genre":"Aksiyon, Macera,Fantastik"
+        },
+        {
+            "id":6,
+            "Title":"Yıldızlar Arası",
+            "Year":"2014",
+            "imdbRated":"8.7/10",
+            "Poster":"https://tr.web.img2.acsta.net/pictures/14/10/09/15/52/150664.jpg",
+            "Director":"Christopher Nolan",
+            "Actors":"Matthew McConaughey, Anne Hathaway, Jessica Chastain",
+            "Genre":"Macera,Dram, Sci-Fi"
+        },
+        {
+            "id":7,
+            "Title":"Dune Çöl Gezegeni 2",
+            "Year":"2024",
+            "imdbRated":"8.6/10",
+            "Poster":"https://tr.web.img4.acsta.net/pictures/24/01/29/13/35/0180463.jpg",
+            "Director":"Denis Villeneuve",
+            "Actors":"Timothée Chalamet, Zendaya, Rebecca Ferguson",
+            "Genre":"Aksiyon,Macera, Dram"
+        },
+        {
+            "id":8,
+            "Title":"Prestij",
+            "Year":"2006",
+            "imdbRated":"8.5/10",
+            "Poster":"https://tr.web.img3.acsta.net/pictures/bzp/01/108998.jpg",
+            "Director":"Christopher Nolan",
+            "Actors":"Christian BaleHugh JackmanScarlett Johansson",
+            "Genre":"Dram, Gizem, Sci-Fi"
+        },
+        {
+            "id":9,
+            "Title":"Oyuncak Hikayesi",
+            "Year":"1995",
+            "imdbRated":"8.3/10",
+            "Poster":"https://upload.wikimedia.org/wikipedia/tr/thumb/d/d4/Oyuncak_hikaesi_film_afi%C5%9Fi.jpg/220px-Oyuncak_hikaesi_film_afi%C5%9Fi.jpg",
+            "Director":"John Lasseter",
+            "Actors":"Tom Hanks, Tim Allen, Don Rickles",
+            "Genre":"Animasyon, Macera, Komedi"
+        }  
+     ]
+}

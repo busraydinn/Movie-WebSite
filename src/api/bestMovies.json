@@ -1,0 +1,95 @@
+{
+    "bestMovies":[
+        {
+            "id":1,
+            "Title":"Esaretin Bedeli",
+            "Year":"1995",
+            "imdbRated":"9.1/10",
+            "Poster":"https://images.justwatch.com/poster/264367990/s718/esaretin-bedeli.jpg",
+            "Director":"Frank Darabont",
+            "Actors":"Morgan Freeman, Tim Robbins, Clancy Brown",
+            "Genre":"Dram,Suç"
+        },
+        {
+            "id":2,
+            "Title":"Başlangıç",
+            "Year":"2010",
+            "imdbRated":"8.8/10",
+            "Poster":"https://upload.wikimedia.org/wikipedia/tr/9/94/Ba%C5%9Flang%C4%B1%C3%A7.jpg",
+            "Director":"Christopher Nolan",
+            "Actors":"Leonardo DiCaprio, Cillian Murphy, Tom Hardy ",
+            "Genre":"Aksiyon ,BilimKurgu, Macera"},
+            {
+                "id":3,
+               "Title":"Dövüş Kulübü",
+            "Year":"1999",
+            "imdbRated":"8.8/10",
+            "Poster":"https://upload.wikimedia.org/wikipedia/tr/thumb/a/ab/D%C3%B6v%C3%BC%C5%9F_Kul%C3%BCb%C3%BC_film_afi%C5%9Fi.jpg/640px-D%C3%B6v%C3%BC%C5%9F_Kul%C3%BCb%C3%BC_film_afi%C5%9Fi.jpg",
+            "Director":"David Fincher , Chon Kye-Young",
+            "Actors":"Edward Norton, Brad Pitt, Helena Bonham ",
+            "Genre":"Dram" 
+            },
+            {
+                "id":4,
+            "Title":"Yüzüklerin Efendisi: Kralın Dönüşü",
+            "Year":"2003",
+            "imdbRated":"9.0/10",
+            "Poster":"https://tr.web.img4.acsta.net/pictures/bzp/01/39187.jpg",
+            "Director":"Peter Jackson",
+            "Actors":"Elijah Wood, Sean Astin, Ian McKellen",
+            "Genre":"Aksiyon, Fantastik, Macera"    
+            },
+            {
+                "id":5,
+            "Title":"Yeşil Yol",
+            "Year":"1999",
+            "imdbRated":"8.8/10",
+            "Poster":"https://img02.imgsinemalar.com/images/afis_dev/y/yesil-yol-1660915301.jpg",
+            "Director":"Frank Darabont",
+            "Actors":"Michael Clark, Tom Hanks, David Morse",
+            "Genre":"Dram,Fantastik,Suç"    
+            },
+            {
+                "id":6,
+             "Title":"Kara Şovalye",
+            "Year":"2016",
+            "imdbRated":"9.0/10",
+            "Poster":"https://upload.wikimedia.org/wikipedia/tr/4/4d/Kara_%C5%9E%C3%B6valye_TR_film_afi%C5%9Fi.jpg",
+            "Director":"Christopher Nolan",
+            "Actors":"Christian Bale,Heath LedgerAaron Eckhart",
+            "Genre":"Aksiyon,Suç, Dram"    
+            },
+            { 
+                "id":7,
+            "Title":"Prestij",
+            "Year":"2006",
+            "imdbRated":"8.5/10",
+            "Poster":"https://tr.web.img3.acsta.net/pictures/bzp/01/108998.jpg",
+            "Director":"Christopher Nolan",
+            "Actors":"Christian BaleHugh JackmanScarlett Johansson",
+            "Genre":"Dram, Gizem, Sci-Fi"  
+            },
+            { 
+                "id":8,
+            "Title":"Forrest Gamp",
+            "Year":"1994",
+            "imdbRated":"8.9/10",
+            "Poster":"https://img01.imgsinemalar.com/images/afis_buyuk/f/forrest-gump-1660915302.jpg",
+            "Director":"Robert Zemenckis",
+            "Actors":"Tom Hanks, Robin Wright, Gary Sinise",
+            "Genre":"Dram,Komedi,Romantik"  
+            },
+            { 
+                "id":9,
+            "Title":"Yüzüklerin Efendisi: İki Kule",
+            "Year":"2002",
+            "imdbRated":"8.9/10",
+            "Poster":"https://img02.imgsinemalar.com/images/afis_buyuk/y/yuzuklerin-efendisi-iki-kule-1660915288.jpg",
+            "Director":"Peter Jackson",
+            "Actors":"Elijah Wood, Sean Astin, Ian McKellen",
+            "Genre":"Aksiyon ,Fantastik, Macera"  
+            }
+            
+            
+    ]
+}

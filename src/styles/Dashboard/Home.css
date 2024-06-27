@@ -1,0 +1,32 @@
+.home-container{
+    display: flex;
+    flex-direction: column;
+    margin: 60px;
+    border-radius: 10px;
+    
+}
+.home-header{
+    height: 500px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: row;
+    margin: 30px;
+}
+.h-header-item{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.h-header-item1{
+    border: 1px solid white;
+    width: 50%;
+}
+.home-body{
+    height: 100%;
+    background-color:black;
+    padding: 20px;
+}
+.h-body-item>h1{
+    color:yellow;
+}
